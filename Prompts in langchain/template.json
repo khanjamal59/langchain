@@ -1,0 +1,17 @@
+{
+    "name": null,
+    "input_variables": [
+        "length",
+        "paper",
+        "style"
+    ],
+    "optional_variables": [],
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "Explain the paper '{paper}' in a {style} style and {length} length. include all the relevant content  and also use the relateble anologies to simplyfy the complex ideas. make sure to cover all the important points and provide a comprehensive understanding of the paper.",
+    "template_format": "f-string",
+    "validate_template": false,
+    "_type": "prompt"
+}
