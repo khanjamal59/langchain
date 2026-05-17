@@ -1,0 +1,23 @@
+Definition
+
+A Chain in LangChain is a sequence of connected components that work together to perform a task step-by-step.
+
+Input → Prompt → LLM → Output
+Purpose of Chains
+
+Chains are used to:
+
+Automate AI workflows
+Connect prompts with LLMs
+Build chatbots
+Create RAG applications
+Process documents
+Connect APIs and databases
+Basic Structure
+User Input
+    ↓
+Prompt Template
+    ↓
+LLM
+    ↓
+Response
