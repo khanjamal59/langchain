@@ -5,7 +5,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 load_dotenv()
 
-# HuggingFace Embedding Model
+# HuggingFace Embeddings Model
 embeddings = HuggingFaceEmbeddings(
     model_name="sentence-transformers/all-MiniLM-L6-v2"
 )
