@@ -13,6 +13,7 @@ Build chatbots
 Create RAG applications
 Process documents
 Connect APIs and databases
+
 Basic Structure
 User Input
     ↓
